@@ -1,0 +1,56 @@
+/***********HEADER************/
+
+#barra {
+	background-color: orange;
+	text-align: center;
+	font-family: lucida handwriting;
+}
+
+/*********CORPO*******/
+#corp {
+	background-image: url("pic1.jpg");
+	background-position: center;
+	background-color: #cccccc;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+body {
+	background-color: #cccccc;
+}
+
+h3 {
+   font-family: papyrus;
+   text-align: center;
+   color: white;
+}
+
+#barra{
+	color: white;
+
+}
+
+#lista {
+	text-align: center;
+}
+
+li {
+	list-style-type: none;
+	font-family: monaco;
+}
+
+#note {
+	text-decoration: underline;
+}
+
+#ebike {
+	margin-left: 250px;
+}
+div a {
+	color: white;
+	margin: 10px;
+}
+
+ol img {
+	display: inline-block;
+     margin-left: 300px;
+}
